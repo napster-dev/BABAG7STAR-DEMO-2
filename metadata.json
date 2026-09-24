@@ -1,0 +1,6 @@
+{
+  "name": "BABAG7STAR - UK Electronics & Tech Storefront",
+  "description": "Premium electronics, audio, wearables, and high-performance charging accessories across the United Kingdom. Certified quality with 2-year UK warranty and free tracked UK delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
